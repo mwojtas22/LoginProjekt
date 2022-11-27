@@ -1,0 +1,24 @@
+Lab 01 	27.11.2022
+
+
+Link do repozytorium : https://github.com/mwojtas22/LoginProjekt
+
+Michał Wojtas 76135
+
+Zad.1 
+Grupa 1 : Dane poufne 
+Grupa 2 : Dane wewnętrzne
+
+Szczegóły:
+Inne niż biznesowe:
+ - Historia choroby
+ -Dane biometryczne np. odcisk palca [bardzo poufne]
+Wewnętrzne:
+ - ID Pracownika
+- Nazwa stanowiska
+Publiczne:
+-Imie i nazwisko
+Ogólne:
+- Zawód
+Poufne:
+  -Numer karty debetowej
